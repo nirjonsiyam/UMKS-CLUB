@@ -1,57 +1,15 @@
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-  <meta charset="UTF-8">
-  <title>আমার ফুটবল ক্লাব</title>
-  <style>
-    body {
-      font-family: Arial;
-      background-color: #f2f2f2;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #2e8b57;
-    }
-    .player-card {
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
-      padding: 15px;
-      margin: 15px auto;
-      max-width: 500px;
-    }
-    .player-name {
-      font-size: 20px;
-      font-weight: bold;
-    }
-    .player-position {
-      color: #555;
-    }
-    .facebook-link {
-      margin-top: 10px;
-      display: inline-block;
-      background-color: #4267B2;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 5px;
-      text-decoration: none;
-    }
-    .facebook-link:hover {
-      background-color: #365899;
-    }
-  </style>
-</head>
-<body>
-  <h1>আমার ফুটবল ক্লাব</h1>
-
-  <div class="player-card">
-    <div class="player-name">Nirjon Siyam</div>
-    <div class="player-position">Cf</div>
-    <a class="facebook-link" href="#" target="_blank">ফেসবুক প্রোফাইল</a>
-  </div>
-
-  <div class="player-card">
-    <div class="player-name">Rahat Rahat</div>
-    <div class="player-position">Gk</div>
-    <a class="
+@Nirjon Siyam (cf)
+@Rahat Rahat (Gk)
+@Nasim Uddin Jisan (Lwf)
+@JR JoBAyeR (Cf)
+@Shakila Akter Santa Shakilaaktershanta (Cf)
+@Riyad Hosen (DMF)
+@Md Jabed (CB)
+@Sayed Muhammad Iyasin (Amf)
+@Abdulla Ahad (Gk)
+@Opo Hossain (Rwf)
+@Nizamul Haque 
+@Mustafiz Mahtab (Amf)
+@Ashraful Islam Rahat (ss)
+@Md Limon Ahmed (Amf)
+@Fahim Shah (Dmf)
